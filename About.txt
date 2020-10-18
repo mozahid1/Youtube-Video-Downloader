@@ -1,0 +1,40 @@
+
+------------------------------------------------------------------
+---------------Youtube Video Downloader--------------------
+------------------------------------------------------------------
+
+1. This Projcet create by using pytube3
+2. You can download any youtube video.
+3. All video become mp3 in the file name "Videos".
+
+Q&A.
+ 1. How can you download any youtube video?
+Ans:
+
+goto youtube video
+             |
+right click & copy this video url
+             |
+run this .py file and find a output screen
+             |
+then paste the copy url
+             |
+then click the Download button
+             |
+after wait a while you find this video where you save this .py file
+
+[N.B: You must need to install pytube3]
+
+2. How to install pytube3?
+Ans:
+
+goto windows 
+       |
+write cmd & then find comand 
+       |
+open this & write here  this: pip install pytube3
+       |
+wait a while then run .py file
+
+...........................Thank You....................................
+
